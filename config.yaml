@@ -1,0 +1,13 @@
+---
+  metaData: 
+    author: "d3fkon"
+    git-repo: "https://github.com/d3fkon/demo_1"
+    approval: 
+      approved-by: "d3fkon"
+      approval-date: 1564523995250
+  job: 
+    job-name: "d3fkonxdemo_1"
+    config: 
+      pre-unit-test: "yes"
+      post-unit-test: "no"
+      dev: "no"
